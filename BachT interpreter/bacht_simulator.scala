@@ -11,6 +11,7 @@
 import scala.util.Random
 import language.postfixOps
 
+
 class BachTSimul(var bb: BachTStore) {
 
    val bacht_random_choice = new Random()
